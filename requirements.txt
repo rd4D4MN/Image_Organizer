@@ -1,0 +1,8 @@
+numpy
+pillow
+scikit-learn
+tensorflow
+opencv-python
+matplotlib
+pytest
+tqdm>=4.65.0
